@@ -1,6 +1,6 @@
 # Problem Statement
 
-![Chessboard Representation](your_image_link_here)
+![Chessboard Representation](https://github.com/sagar-sehrawat/Code_Demolisher/blob/main/Chess%20Board/chess_board.png)
 
 Above is the standard representation of a chessboard.
 
